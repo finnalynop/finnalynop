@@ -1,1 +1,1 @@
-<img src='https://count.getloli.com/@mao?name=mao&theme=asoul&padding=0&offset=0&align=top&scale=1&pixelated=1&darkmode=auto'>
+<img src='https://count.getloli.com/@finnalynop?name=finnalynop&theme=asoul&padding=7&offset=0&align=center&scale=2&pixelated=1&darkmode=auto'>
